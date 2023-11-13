@@ -1,3 +1,3 @@
 export default function Page() {
-  return <main>Root Page</main>;
+  return "sidebar catch all";
 }
